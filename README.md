@@ -2,7 +2,7 @@ The compiler is written in Ocaml language, and compiles scheme code to assembly 
 the project contains:
 
 -the compiler pipeline:
-  -reader
+-reader
   -tag-parser
   -semantic-analysis
   -code-generation
@@ -13,6 +13,5 @@ the project contains:
   -stdlib.scm - a Scheme file containing implementations of many of the high-level standard library procedures.
   
  
-                
- 
+           
 
