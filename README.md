@@ -7,6 +7,8 @@ moreover, it contains 2 implimentations of additional libary functions (prims.s,
 
 ## Run:
 
+### Linux:
+
 put your scm file insidse the directory and run:
 
 ```bash
