@@ -16,7 +16,14 @@ make -f ./Makefile your-file-name
 ```
 
 
-  
+## Requirements:
+
+Ocaml version 4.05
+
+## Tested:
+
+on 64bit Ubuntu-16.78 . Should also compile on other linux variants.
+
  
            
 
